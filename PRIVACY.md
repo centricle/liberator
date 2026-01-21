@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Liberator does not collect, store, or transmit any user data.
+Liberator does not collect or transmit any user data.
 
 ## Data Storage
 
@@ -16,6 +16,3 @@ This extension makes no network requests. All functionality runs entirely on you
 - **storage**: Used only to remember your checkbox preferences locally
 - **scripting**: Used only to run the fix scripts on the current page
 
-## Contact
-
-For questions about this privacy policy, please open an issue on the project repository.
