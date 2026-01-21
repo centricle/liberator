@@ -1,7 +1,7 @@
 import { load, save } from '../lib/settings.js';
 import { applyFeatures } from '../lib/features.js';
 
-const features = ['paste', 'sticky'];
+const features = ['paste', 'sticky', 'select'];
 
 async function loadSettings() {
   const settings = await load();
