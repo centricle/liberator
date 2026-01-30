@@ -9,3 +9,6 @@
 
 # Claude
 .claude/
+
+# Build artifacts
+*.zip
